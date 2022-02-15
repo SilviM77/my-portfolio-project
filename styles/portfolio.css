@@ -35,7 +35,8 @@ p   {
 
 .my-image {
   width: 560px;
-  line-height: 30px;
+  height: 560px;
+  
 }
 
 nav {
