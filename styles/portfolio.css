@@ -33,6 +33,11 @@ p   {
     line-height: 30px;
 }
 
+.my-image {
+  width: 560px;
+  line-height: 30px;
+}
+
 nav {
   padding: 20px 0;
 
